@@ -1,0 +1,251 @@
+﻿Supplier source ID,Constructed counterpart,Deliberately introduced issues (evaluation only)
+S0001,M0001,Clean control record
+S0002,M0002,Clean control record
+S0003,M0003,Clean control record
+S0004,M0004,Supplier whitespace and capitalization
+S0005,M0005,Supplier brand alias or capitalization
+S0006,M0006,Clean control record
+S0007,M0007,Supplier name word order
+S0008,M0008,Supplier whitespace and capitalization
+S0009,M0009,Inherited master whitespace/capitalization
+S0010,M0010,Supplier brand alias or capitalization
+S0011,M0011,Clean control record
+S0012,M0012,Supplier whitespace and capitalization
+S0013,M0013,Inherited master brand alias
+S0014,M0014,Supplier name word order
+S0015,M0015,Supplier brand alias or capitalization
+S0016,M0016,Supplier whitespace and capitalization
+S0017,M0017,Clean control record
+S0018,M0018,Inherited master whitespace/capitalization
+S0019,M0019,Missing model
+S0020,M0020,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0021,M0021,Supplier name word order
+S0022,M0022,Missing brand
+S0023,M0023,Clean control record
+S0024,M0024,Supplier whitespace and capitalization
+S0025,M0025,Supplier brand alias or capitalization
+S0026,M0026,Inherited master brand alias
+S0027,M0027,Inherited master whitespace/capitalization
+S0028,M0028,Supplier whitespace and capitalization; Supplier name word order; Missing color
+S0029,M0029,Clean control record
+S0030,M0030,Supplier brand alias or capitalization
+S0031,M0031,Missing model
+S0032,M0032,Supplier whitespace and capitalization
+S0033,M0033,Clean control record
+S0034,M0034,Clean control record
+S0035,M0035,Supplier brand alias or capitalization; Supplier name word order
+S0036,M0036,Supplier whitespace and capitalization; Inherited master whitespace/capitalization
+S0037,M0037,Clean control record
+S0038,M0038,GTIN placeholder (not an identifier)
+S0039,M0039,Inherited master brand alias
+S0040,M0040,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0041,M0041,Clean control record
+S0042,M0042,Supplier name word order
+S0043,M0043,Clean control record
+S0044,M0044,Supplier whitespace and capitalization; Invalid pack (zero)
+S0045,M0045,Supplier brand alias or capitalization; Inherited master whitespace/capitalization
+S0046,M0046,Clean control record
+S0047,M0047,Missing model
+S0048,M0048,Supplier whitespace and capitalization
+S0049,M0049,Supplier name word order
+S0050,M0050,Supplier brand alias or capitalization
+S0051,M0051,Clean control record
+S0052,M0052,Supplier whitespace and capitalization; Inherited master brand alias; Category alias
+S0053,M0053,Clean control record
+S0054,M0054,Inherited master whitespace/capitalization
+S0055,M0055,Supplier brand alias or capitalization; Missing model
+S0056,M0056,Supplier whitespace and capitalization; Supplier name word order
+S0057,M0057,Clean control record
+S0058,M0058,Invalid negative price
+S0059,M0059,Clean control record
+S0060,M0060,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0061,M0061,Clean control record
+S0062,M0062,Clean control record
+S0063,M0063,Supplier name word order; Inherited master whitespace/capitalization; Missing brand
+S0064,M0064,Supplier whitespace and capitalization
+S0065,M0065,Supplier brand alias or capitalization; Inherited master brand alias
+S0066,M0066,Missing model
+S0067,M0067,Clean control record
+S0068,M0068,Supplier whitespace and capitalization; Invalid currency label
+S0069,M0069,Clean control record
+S0070,M0070,Supplier brand alias or capitalization; Supplier name word order
+S0071,M0071,Clean control record
+S0072,M0072,Supplier whitespace and capitalization; Inherited master whitespace/capitalization
+S0073,M0073,Clean control record
+S0074,M0074,Clean control record
+S0075,M0075,Supplier brand alias or capitalization
+S0076,M0076,Supplier whitespace and capitalization
+S0077,M0077,Supplier name word order
+S0078,M0078,Inherited master brand alias; GTIN placeholder (not an identifier)
+S0079,M0079,Clean control record
+S0080,M0080,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0081,M0081,Inherited master whitespace/capitalization; Missing model
+S0082,M0082,Clean control record
+S0083,M0083,Clean control record
+S0084,M0084,Supplier whitespace and capitalization; Supplier name word order
+S0085,M0085,Supplier brand alias or capitalization
+S0086,M0086,Clean control record
+S0087,M0087,Clean control record
+S0088,M0088,Supplier whitespace and capitalization; Missing color
+S0089,M0089,Clean control record
+S0090,M0090,Supplier brand alias or capitalization; Inherited master whitespace/capitalization
+S0091,M0091,Supplier name word order; Inherited master brand alias
+S0092,M0092,Supplier whitespace and capitalization; Missing model
+S0093,M0093,Clean control record
+S0094,M0094,Invalid pack (zero)
+S0095,M0095,Supplier brand alias or capitalization
+S0096,M0096,Supplier whitespace and capitalization; Missing brand
+S0097,M0097,Clean control record
+S0098,M0098,Supplier name word order
+S0099,M0099,Inherited master whitespace/capitalization
+S0100,M0100,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0101,M0101,Clean control record
+S0102,M0102,Clean control record
+S0103,M0103,Clean control record
+S0104,M0104,Supplier whitespace and capitalization; Inherited master brand alias
+S0105,M0105,Supplier brand alias or capitalization; Supplier name word order
+S0106,M0106,Clean control record
+S0107,M0107,Missing model
+S0108,M0108,Supplier whitespace and capitalization; Inherited master whitespace/capitalization; Invalid negative price
+S0109,M0109,Clean control record
+S0110,M0110,Supplier brand alias or capitalization
+S0111,M0111,Clean control record
+S0112,M0112,Supplier whitespace and capitalization; Supplier name word order; Category alias
+S0113,M0113,Clean control record
+S0114,M0114,Clean control record
+S0115,M0115,Supplier brand alias or capitalization
+S0116,M0116,Supplier whitespace and capitalization
+S0117,M0117,Inherited master whitespace/capitalization; Inherited master brand alias
+S0118,M0118,Invalid currency label
+S0119,M0119,Supplier name word order; Missing model
+S0120,M0120,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0121,M0121,Clean control record
+S0122,M0122,Clean control record
+S0123,M0123,Clean control record
+S0124,M0124,Supplier whitespace and capitalization
+S0125,M0125,Supplier brand alias or capitalization
+S0126,M0126,Supplier name word order; Inherited master whitespace/capitalization
+S0127,M0127,Clean control record
+S0128,M0128,Supplier whitespace and capitalization; Missing color
+S0129,M0129,Clean control record
+S0130,M0130,Supplier brand alias or capitalization; Inherited master brand alias
+S0131,M0131,Missing brand
+S0132,M0132,Supplier whitespace and capitalization
+S0133,M0133,Supplier name word order
+S0134,M0134,Invalid pack (zero)
+S0135,M0135,Supplier brand alias or capitalization; Inherited master whitespace/capitalization
+S0136,M0136,Supplier whitespace and capitalization
+S0137,M0137,Clean control record
+S0138,M0138,Clean control record
+S0139,M0139,Clean control record
+S0140,M0140,Supplier whitespace and capitalization; Supplier brand alias or capitalization; Supplier name word order
+S0141,M0141,Clean control record
+S0142,M0142,Clean control record
+S0143,M0143,Inherited master brand alias; Missing model
+S0144,M0144,Supplier whitespace and capitalization; Inherited master whitespace/capitalization
+S0145,M0145,Supplier brand alias or capitalization
+S0146,M0146,Clean control record
+S0147,M0147,Supplier name word order
+S0148,M0148,Supplier whitespace and capitalization
+S0149,M0149,Clean control record
+S0150,M0150,Supplier brand alias or capitalization
+S0151,M0151,Clean control record
+S0152,M0152,Supplier whitespace and capitalization
+S0153,M0153,Inherited master whitespace/capitalization
+S0154,M0154,Supplier name word order
+S0155,M0155,Supplier brand alias or capitalization
+S0156,M0156,Supplier whitespace and capitalization; Inherited master brand alias
+S0157,M0157,Clean control record
+S0158,M0158,Clean control record
+S0159,M0159,Missing model
+S0160,M0160,Supplier whitespace and capitalization; Supplier brand alias or capitalization
+S0161,M0161,Supplier name word order
+S0162,M0162,Inherited master whitespace/capitalization
+S0163,M0163,Clean control record
+S0164,M0164,Supplier whitespace and capitalization
+S0165,M0165,Supplier brand alias or capitalization
+S0166,M0166,Clean control record
+S0167,M0167,Clean control record
+S0168,M0168,Supplier whitespace and capitalization; Supplier name word order
+S0169,M0169,Inherited master brand alias
+S0170,M0170,Supplier brand alias or capitalization
+S0171,M0171,Inherited master whitespace/capitalization; Missing model
+S0172,M0172,Supplier whitespace and capitalization
+S0173,M0173,Clean control record
+S0174,M0174,Clean control record
+S0175,M0175,Supplier brand alias or capitalization; Supplier name word order
+S0176,M0176,Supplier whitespace and capitalization
+S0177,M0177,Clean control record
+S0178,M0178,Clean control record
+S0179,M0179,Clean control record
+S0180,M0180,Supplier whitespace and capitalization; Supplier brand alias or capitalization; Inherited master whitespace/capitalization
+S0181,M0017,"Same family, different legitimate variant; name remains misleading"
+S0182,M0019,"Same family, different legitimate variant; name remains misleading"
+S0183,M0021,"Same family, different legitimate variant; name remains misleading"
+S0184,M0023,"Same family, different legitimate variant; name remains misleading"
+S0185,M0025,"Same family, different legitimate variant; name remains misleading"
+S0186,M0027,"Same family, different legitimate variant; name remains misleading"
+S0187,M0029,"Same family, different legitimate variant; name remains misleading"
+S0188,M0031,"Same family, different legitimate variant; name remains misleading"
+S0189,M0033,"Same family, different legitimate variant; name remains misleading"
+S0190,M0035,"Same family, different legitimate variant; name remains misleading"
+S0191,NONE,High name similarity but unavailable color / pack variant
+S0192,NONE,High name similarity but unavailable color / pack variant
+S0193,NONE,High name similarity but unavailable color / pack variant
+S0194,NONE,High name similarity but unavailable color / pack variant
+S0195,NONE,High name similarity but unavailable color / pack variant
+S0196,NONE,High name similarity but unavailable color / pack variant
+S0197,NONE,High name similarity but unavailable color / pack variant
+S0198,NONE,High name similarity but unavailable color / pack variant
+S0199,NONE,High name similarity but unavailable color / pack variant
+S0200,NONE,High name similarity but unavailable color / pack variant
+S0201,M0001,Exact supplier retransmission | Survivor S0001
+S0202,M0002,Exact supplier retransmission | Survivor S0002
+S0203,M0003,Exact supplier retransmission | Survivor S0003
+S0204,M0004,Exact supplier retransmission | Survivor S0004
+S0205,M0005,Exact supplier retransmission | Survivor S0005
+S0206,M0006,Exact supplier retransmission | Survivor S0006
+S0207,M0007,Exact supplier retransmission | Survivor S0007
+S0208,M0008,Exact supplier retransmission | Survivor S0008
+S0209,M0009,Exact supplier retransmission | Survivor S0009
+S0210,M0010,Exact supplier retransmission | Survivor S0010
+S0211,M0011,Exact supplier retransmission | Survivor S0011
+S0212,M0012,Exact supplier retransmission | Survivor S0012
+S0213,M0013,Exact supplier retransmission | Survivor S0013
+S0214,M0014,Exact supplier retransmission | Survivor S0014
+S0215,M0015,Exact supplier retransmission | Survivor S0015
+S0216,M0070,Same product with another supplier SKU; suspected duplicate
+S0217,M0071,Same product with another supplier SKU; suspected duplicate
+S0218,M0072,Same product with another supplier SKU; suspected duplicate
+S0219,M0073,Same product with another supplier SKU; suspected duplicate
+S0220,M0074,Same product with another supplier SKU; suspected duplicate
+S0221,M0075,Same product with another supplier SKU; suspected duplicate
+S0222,M0076,Same product with another supplier SKU; suspected duplicate
+S0223,M0077,Same product with another supplier SKU; suspected duplicate
+S0224,M0078,Same product with another supplier SKU; suspected duplicate
+S0225,M0079,Same product with another supplier SKU; suspected duplicate
+S0226,NONE,No product in master catalog
+S0227,NONE,No product in master catalog
+S0228,NONE,No product in master catalog
+S0229,NONE,No product in master catalog
+S0230,NONE,No product in master catalog
+S0231,NONE,No product in master catalog
+S0232,NONE,No product in master catalog
+S0233,NONE,No product in master catalog
+S0234,NONE,No product in master catalog
+S0235,NONE,No product in master catalog
+S0236,M0120,Missing model; fuzzy candidate only
+S0237,M0121,Missing model; fuzzy candidate only
+S0238,M0122,Missing model; fuzzy candidate only
+S0239,M0123,Missing model; fuzzy candidate only
+S0240,M0124,Missing model; fuzzy candidate only
+S0241,M0125,Missing model; fuzzy candidate only
+S0242,M0126,Missing model; fuzzy candidate only
+S0243,M0127,Missing model; fuzzy candidate only
+S0244,M0128,Missing model; fuzzy candidate only
+S0245,M0129,Missing model; fuzzy candidate only
+S0246,M0130,Missing model; fuzzy candidate only
+S0247,M0131,Missing model; fuzzy candidate only
+S0248,M0132,Missing model; fuzzy candidate only
+S0249,M0133,Missing model; fuzzy candidate only
+S0250,M0134,Missing model; fuzzy candidate only

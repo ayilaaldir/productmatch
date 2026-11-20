@@ -1,0 +1,112 @@
+﻿Supplier row ID,Product name,Brand,Category,Review outcome,Suggested master,Issue / reason,Duplicate state,Reviewer,Decision notes
+S0019,Vertex Demo-Kb-002 Keyboard White Standard,Vertex,Keyboards,Needs review,M0019,Review pending; ,,,
+S0022,Oakline Demo-Au-004 Audio Black Standard,Oakline,Audio,Needs review,M0022,Review pending; ,,,
+S0023,Oakline Demo-Au-004 Audio White Standard,Oakline,Audio,Needs review,M0023,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0025,Northstar Demo-St-005 Storage White 128Gb,Northstar,Storage,Needs review,M0025,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0027,Vertex Demo-Nw-006 Networking White Standard,Vertex,Networking,Needs review,M0027,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0028,Standard Black Accessorie Office Demo-Of-007 Luma,Luma,Office accessories,Needs review,M0028,Missing brand/variant; Review pending; ,,,
+S0029,Luma Demo-Of-007 Office Accessorie White Standard,Luma,Office accessories,Needs review,M0029,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0031,Oakline Demo-Cb-008 Cable White 2M,Oakline,Cables,Needs review,M0031,Review pending; ,,,
+S0033,Northstar Demo-Pr-009 Printing White A4,Northstar,Printing,Needs review,M0033,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0035,Standard White Mice Demo-Ms-010 Vertex,Vertex,Mice,Needs review,M0035,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0038,Oakline Demo-Wc-012 Webcam Black Standard,Oakline,Webcams,Needs review,M0038,Review pending; ,,,
+S0044,Luma Demo-Nw-015 Networking Black Standard,Luma,Networking,Needs review,M0044,Pack; Invalid pack; Review pending; ,,,
+S0047,Oakline Demo-Of-016 Office Accessorie White Standard,Oakline,Office accessories,Needs review,M0047,Review pending; ,,,
+S0052,Luma Demo-Ms-019 Mice Black Standard,Luma,Office accessories,Needs review,M0052,Category; Review pending; ,,,
+S0055,Oakline Demo-Kb-020 Keyboard White Standard,Oakline,Keyboards,Needs review,M0055,Review pending; ,,,
+S0058,Vertex Demo-Au-022 Audio Black Standard,Vertex,Audio,Needs review,M0058,Invalid price; Review pending; ,,,
+S0063,Standard White Networking Demo-Nw-024 Oakline,Oakline,Networking,Needs review,M0063,Review pending; ,,,
+S0066,Vertex Demo-Cb-026 Cable Black 1M,Vertex,Cables,Needs review,M0066,Review pending; ,,,
+S0068,Luma Demo-Pr-027 Printing Black A4,Luma,Printing,Needs review,M0068,Invalid currency; Review pending; ,,,
+S0070,Standard Black Mice Demo-Ms-028 Oakline,Oakline,Mice,Needs review,M0070,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0071,Oakline Demo-Ms-028 Mice White Standard,Oakline,Mice,Needs review,M0071,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0072,Northstar Demo-Kb-029 Keyboard Black Standard,Northstar,Keyboards,Needs review,M0072,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0073,Northstar Demo-Kb-029 Keyboard White Standard,Northstar,Keyboards,Needs review,M0073,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0074,Vertex Demo-Wc-030 Webcam Black Standard,Vertex,Webcams,Needs review,M0074,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0075,Vertex Demo-Wc-030 Webcam White Standard,Vertex,Webcams,Needs review,M0075,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0076,Luma Demo-Au-031 Audio Black Standard,Luma,Audio,Needs review,M0076,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0077,Standard White Audio Demo-Au-031 Luma,Luma,Audio,Needs review,M0077,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0078,Oakline Demo-St-032 Storage Black 64Gb,Oakline,Storage,Needs review,M0078,Duplicate review; Review pending; ,,,
+S0079,Oakline Demo-St-032 Storage White 128Gb,Oakline,Storage,Needs review,M0079,Duplicate review; Review pending; ,,Demo reviewer,Simulated review: identifiers and variant checked.
+S0081,Northstar Demo-Nw-033 Networking White Standard,Northstar,Networking,Needs review,M0081,Review pending; ,,,
+S0088,Northstar Demo-Ms-037 Mice Black Standard,Northstar,Mice,Needs review,M0088,Missing brand/variant; Review pending; ,,,
+S0092,Luma Demo-Wc-039 Webcam Black Standard,Luma,Webcams,Needs review,M0092,Review pending; ,,,
+S0094,Oakline Demo-Au-040 Audio Black Standard,Oakline,Audio,Needs review,M0094,Pack; Invalid pack; Review pending; ,,,
+S0096,Northstar Demo-St-041 Storage Black 64Gb,,Storage,Needs review,M0096,Missing brand/variant; Review pending; ,,,
+S0107,Vertex Demo-Ms-046 Mice White Standard,Vertex,Mice,Needs review,M0107,Review pending; ,,,
+S0108,Luma Demo-Kb-047 Keyboard Black Standard,Luma,Keyboards,Needs review,M0108,Invalid price; Review pending; ,,,
+S0112,Standard Black Audio Demo-Au-049 Northstar,Northstar,Office accessories,Needs review,M0112,Category; Review pending; ,,,
+S0118,Oakline Demo-Of-052 Office Accessorie Black Standard,Oakline,Office accessories,Needs review,M0118,Invalid currency; Review pending; ,,,
+S0119,Standard White Accessorie Office Demo-Of-052 Oakline,Oakline,Office accessories,Needs review,M0119,Review pending; ,,,
+S0128,Northstar Demo-Wc-057 Webcam Black Standard,Northstar,Webcams,Needs review,M0128,Missing brand/variant; Review pending; ,,,
+S0131,Vertex Demo-Au-058 Audio White Standard,,Audio,Needs review,M0131,Missing brand/variant; Review pending; ,,,
+S0134,Oakline Demo-Nw-060 Networking Black Standard,Oakline,Networking,Needs review,M0134,Pack; Invalid pack; Review pending; ,,,
+S0143,Oakline Demo-Ms-064 Mice White Standard,Oakline,Mice,Needs review,M0143,Review pending; ,,,
+S0159,Oakline Demo-Pr-072 Printing White A4,Oakline,Printing,Needs review,M0159,Review pending; ,,,
+S0166,Oakline Demo-Au-076 Audio Black Standard,Oakline,Audio,Needs review,M0166,Review pending; ,,,
+S0167,Oakline Demo-Au-076 Audio White Standard,Oakline,Audio,Needs review,M0167,Review pending; ,,,
+S0168,64Gb Black Storage Demo-St-077 Northstar,Northstar,Storage,Needs review,M0168,Review pending; ,,,
+S0169,Northstar Demo-St-077 Storage White 128Gb,Northstar,Storage,Needs review,M0169,Review pending; ,,,
+S0170,Vertex Demo-Nw-078 Networking Black Standard,Vertex,Networking,Needs review,M0170,Review pending; ,,,
+S0171,Vertex Demo-Nw-078 Networking White Standard,Vertex,Networking,Needs review,M0171,Review pending; ,,,
+S0172,Luma Demo-Of-079 Office Accessorie Black Standard,Luma,Office accessories,Needs review,M0172,Review pending; ,,,
+S0173,Luma Demo-Of-079 Office Accessorie White Standard,Luma,Office accessories,Needs review,M0173,Review pending; ,,,
+S0174,Oakline Demo-Cb-080 Cable Black 1M,Oakline,Cables,Needs review,M0174,Review pending; ,,,
+S0175,2M White Cable Demo-Cb-080 Oakline,Oakline,Cables,Needs review,M0175,Review pending; ,,,
+S0176,Northstar Demo-Pr-081 Printing Black A4,Northstar,Printing,Needs review,M0176,Review pending; ,,,
+S0177,Northstar Demo-Pr-081 Printing White A4,Northstar,Printing,Needs review,M0177,Review pending; ,,,
+S0178,Vertex Demo-Ms-082 Mice Black Standard,Vertex,Mice,Needs review,M0178,Review pending; ,,,
+S0179,Vertex Demo-Ms-082 Mice White Standard,Vertex,Mice,Needs review,M0179,Review pending; ,,,
+S0180,Luma Demo-Kb-083 Keyboard Black Standard,Luma,Keyboards,Needs review,M0180,Review pending; ,,,
+S0184,Oakline Demo-Au-004 Audio Black Standard,Oakline,Audio,Needs review,M0023,Duplicate review; Review pending; ,,,
+S0185,Northstar Demo-St-005 Storage Black 64Gb,Northstar,Storage,Needs review,M0025,Duplicate review; Review pending; ,,,
+S0186,Vertex Demo-Nw-006 Networking Black Standard,Vertex,Networking,Needs review,M0027,Duplicate review; Review pending; ,,,
+S0187,Luma Demo-Of-007 Office Accessorie Black Standard,Luma,Office accessories,Needs review,M0029,Duplicate review; Review pending; ,,,
+S0188,Oakline Demo-Cb-008 Cable Black 1M,Oakline,Cables,Needs review,M0031,Review pending; ,,,
+S0189,Northstar Demo-Pr-009 Printing Black A4,Northstar,Printing,Needs review,M0033,Duplicate review; Review pending; ,,,
+S0190,Vertex Demo-Ms-010 Mice Black Standard,Vertex,Mice,Needs review,M0035,Duplicate review; Review pending; ,,,
+S0191,Luma Demo-Kb-011 Keyboard Black Standard,Luma,Keyboards,Rejected,M0036,Rejected suggestion,,Demo reviewer,Simulated review: offered variant absent from master.
+S0192,Oakline Demo-Wc-012 Webcam Black Standard,Oakline,Webcams,Rejected,M0038,Rejected suggestion,,Demo reviewer,Simulated review: offered variant absent from master.
+S0193,Northstar Demo-Au-013 Audio Black Standard,Northstar,Audio,Rejected,M0040,Rejected suggestion,,Demo reviewer,Simulated review: offered variant absent from master.
+S0194,Vertex Demo-St-014 Storage Black 64Gb,Vertex,Storage,Rejected,M0042,Rejected suggestion,,Demo reviewer,Simulated review: offered variant absent from master.
+S0195,Luma Demo-Nw-015 Networking Black Standard,Luma,Networking,Rejected,M0044,Rejected suggestion,,Demo reviewer,Simulated review: offered variant absent from master.
+S0196,Oakline Demo-Of-016 Office Accessorie Black Standard,Oakline,Office accessories,Needs review,M0046,Color; Pack; Review pending; ,,,
+S0197,Northstar Demo-Cb-017 Cable Black 1M,Northstar,Cables,Needs review,M0048,Color; Pack; Review pending; ,,,
+S0198,Vertex Demo-Pr-018 Printing Black A4,Vertex,Printing,Needs review,M0050,Color; Pack; Review pending; ,,,
+S0199,Luma Demo-Ms-019 Mice Black Standard,Luma,Mice,Needs review,M0052,Color; Pack; Review pending; ,,,
+S0200,Oakline Demo-Kb-020 Keyboard Black Standard,Oakline,Keyboards,Needs review,M0054,Color; Pack; Review pending; ,,,
+S0216,Oakline Demo-Ms-028 Mice Black Standard,Oakline,Mice,Needs review,M0070,Duplicate review; Review pending; ,,,
+S0217,Oakline Demo-Ms-028 Mice White Standard,Oakline,Mice,Needs review,M0071,Duplicate review; Review pending; ,,,
+S0218,Northstar Demo-Kb-029 Keyboard Black Standard,Northstar,Keyboards,Needs review,M0072,Duplicate review; Review pending; ,,,
+S0219,Northstar Demo-Kb-029 Keyboard White Standard,Northstar,Keyboards,Needs review,M0073,Duplicate review; Review pending; ,,,
+S0220,Vertex Demo-Wc-030 Webcam Black Standard,Vertex,Webcams,Needs review,M0074,Duplicate review; Review pending; ,,,
+S0221,Vertex Demo-Wc-030 Webcam White Standard,Vertex,Webcams,Needs review,M0075,Review pending; ,,,
+S0222,Luma Demo-Au-031 Audio Black Standard,Luma,Audio,Needs review,M0076,Review pending; ,,,
+S0223,Luma Demo-Au-031 Audio White Standard,Luma,Audio,Needs review,M0077,Review pending; ,,,
+S0224,Oakline Demo-St-032 Storage Black 64Gb,Oakline,Storage,Needs review,M0078,Review pending; ,,,
+S0225,Oakline Demo-St-032 Storage White 128Gb,Oakline,Storage,Needs review,M0079,Review pending; ,,,
+S0226,Oakline Demo-New-001 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0227,Oakline Demo-New-002 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0228,Oakline Demo-New-003 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0229,Oakline Demo-New-004 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0230,Oakline Demo-New-005 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0231,Oakline Demo-New-006 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0232,Oakline Demo-New-007 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0233,Oakline Demo-New-008 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0234,Oakline Demo-New-009 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0235,Oakline Demo-New-010 Presentation Remote,Oakline,Office accessories,Unmatched,,No candidate; ,,,
+S0236,Northstar Demo-Cb-053 Cable Blk 1M,Northstar,Cables,Needs review,M0120,Review pending; ,,,
+S0237,Northstar Demo-Cb-053 Cable Wht 2M,Northstar,Cables,Needs review,M0121,Review pending; ,,,
+S0238,Vertex Demo-Pr-054 Printing Blk A4,Vertex,Printing,Needs review,M0122,Review pending; ,,,
+S0239,Vertex Demo-Pr-054 Printing Wht A4,Vertex,Printing,Needs review,M0123,Review pending; ,,,
+S0240,Luma Demo-Ms-055 Mice Blk Compact,Luma,Mice,Unmatched,,No candidate; ,,,
+S0241,Luma Demo-Ms-055 Mice Wht Compact,Luma,Mice,Unmatched,,No candidate; ,,,
+S0242,Oakline Demo-Kb-056 Keyboard Black Standard,Oakline,Keyboards,Needs review,M0126,Review pending; ,,,
+S0243,Oakline Demo-Kb-056 Keyboard Wht Compact,Oakline,Keyboards,Unmatched,,No candidate; ,,,
+S0244,Northstar Demo-Wc-057 Webcam Blk Compact,Northstar,Webcams,Unmatched,,No candidate; ,,,
+S0245,Northstar Demo-Wc-057 Webcam Wht Compact,Northstar,Webcams,Unmatched,,No candidate; ,,,
+S0246,Vertex Demo-Au-058 Audio Blk Compact,Vertex,Audio,Unmatched,,No candidate; ,,,
+S0247,Vertex Demo-Au-058 Audio Wht Compact,Vertex,Audio,Unmatched,,No candidate; ,,,
+S0248,Luma Demo-St-059 Storage Blk 64Gb,Luma,Storage,Needs review,M0132,Review pending; ,,,
+S0249,Luma Demo-St-059 Storage Wht 128Gb,Luma,Storage,Needs review,M0133,Review pending; ,,,
+S0250,Oakline Demo-Nw-060 Networking Blk Compact,Oakline,Networking,Unmatched,,No candidate; ,,,

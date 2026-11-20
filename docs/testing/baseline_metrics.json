@@ -1,0 +1,47 @@
+{
+  "outcomes": {
+    "Accepted": 124,
+    "Needs review": 88,
+    "Rejected": 5,
+    "Excluded duplicate": 15,
+    "Unmatched": 18
+  },
+  "exported": 124,
+  "dashboard": {
+    "B9": 200,
+    "D9": 250,
+    "F9": 15,
+    "H9": "15 / 22",
+    "B14": 124,
+    "D14": 88,
+    "F14": 18,
+    "H14": 15,
+    "B18": 27,
+    "D18": 0.9852,
+    "F18": 0.9872,
+    "H18": 111
+  },
+  "evaluation": {
+    "Suggested mapping precision": 0.940092165898618,
+    "Positive suggestion recall": 0.948837209302326,
+    "Accepted mapping precision": 1,
+    "Accepted positive coverage": 0.576744186046512,
+    "No-counterpart cases": 20
+  },
+  "reconciliation": {
+    "Supplier partition": "PASS",
+    "Accepted = exported": "PASS",
+    "Exceptions reconcile": "PASS",
+    "Master partition": "PASS",
+    "Ground truth rows": "PASS",
+    "Expected duplicate exclusions": "PASS",
+    "Unique exported source IDs": "PASS",
+    "Research verified fields": "PASS"
+  },
+  "research_statuses": {
+    "Verified": 15,
+    "Conflicting sources": 2,
+    "Not found": 1,
+    "Pending": 4
+  }
+}

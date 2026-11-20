@@ -1,0 +1,15 @@
+* text=auto
+*.py text eol=lf
+*.mjs text eol=lf
+*.gs text eol=lf
+*.md text eol=lf
+*.md whitespace=-blank-at-eol
+*.json text eol=lf
+# Preserve original CSV line endings and literal source/formula whitespace.
+*.csv -text whitespace=-blank-at-eol,cr-at-eol
+*.txt text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.xlsx binary
+*.png binary
+*.pdf binary

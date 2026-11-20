@@ -1,0 +1,40 @@
+# Local verification, rebuilds and previews
+.artifacts/
+qa_previews/
+preview_values.json
+build_inspection.json
+*.inspect.ndjson
+
+# Python and Node
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+
+# Workbook locks, backups and delivery archives
+~$*
+.~lock.*
+*.bak
+*.tmp
+*.tmp.xlsx
+*.zip
+
+# Credentials and machine configuration
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+*.pem
+*.key
+
+# Editor and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*:Zone.Identifier

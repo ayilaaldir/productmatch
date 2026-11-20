@@ -1,0 +1,122 @@
+[
+  {
+    "test": "Baseline formula scan / eight reconciliation checks",
+    "result": "PASS",
+    "engine": "Headless LibreOffice",
+    "detail": "No formula errors; eight reconciliation checks pass; all 450 raw rows match original inputs exactly, including leading-zero SKUs and whitespace."
+  },
+  {
+    "test": "Every exported mapping attribute agrees with independently normalized selected master",
+    "result": "PASS",
+    "engine": "Python independent source comparison"
+  },
+  {
+    "test": "Native tables, 2 linked charts, dropdown XML, macro-free archive",
+    "result": "PASS",
+    "engine": "Programmatic OOXML inspection",
+    "features": {
+      "tables": 13,
+      "charts": 2
+    }
+  },
+  {
+    "test": "Blank identifiers, duplicate identifiers, conflicting variant and duplicate exclusions",
+    "result": "PASS",
+    "engine": "Headless LibreOffice saved results"
+  },
+  {
+    "test": "selectors_search_and_chart_sources",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": [
+      "Category, brand and review-outcome selectors change filtered metrics and chart source cells",
+      "Search finds the one qualifying product",
+      "Overall totals remain unchanged"
+    ]
+  },
+  {
+    "test": "accept_pending_mapping",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": {
+      "accepted_source": "S0170",
+      "exported_delta": 1,
+      "dashboard_accepted_delta": 1
+    }
+  },
+  {
+    "test": "reject_accepted_mapping",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": {
+      "rejected_source": "S0001",
+      "exported_delta": -1
+    }
+  },
+  {
+    "test": "invalid_ID_conflicting_variant_missing_date_and_override",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": [
+      "Invalid pasted master ID blocked",
+      "Accepting a conflicting color/pack remains blocked",
+      "Reviewer without date remains blocked",
+      "Existing explicit override selects a compatible master different from the suggestion"
+    ]
+  },
+  {
+    "test": "research_updates_and_conflicting_approvals",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": [
+      "Revoking research approval removes the final specification",
+      "Duplicate approved field keys block application instead of silently first-matching"
+    ]
+  },
+  {
+    "test": "fuzzy_staleness_and_threshold",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": [
+      "Changed supplier signature hides a stale fuzzy suggestion",
+      "Raising the threshold hides a different, current weak suggestion",
+      "Fuzzy suggestions remain unapproved"
+    ]
+  },
+  {
+    "test": "stable_keys_correction_and_duplicate_resolution",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": [
+      "Keyed decisions survive full-row input reordering",
+      "Pack correction preserves raw zero and updates accepted output",
+      "Complete same-variant duplicate confirmation excludes the intended row"
+    ]
+  },
+  {
+    "test": "append_at_capacity_and_duplicate_identifier",
+    "result": "PASS",
+    "engine": "Headless LibreOffice full recalculation",
+    "detail": [
+      "Last supported master and supplier rows calculate correctly across blank reserved gaps",
+      "New native suggestion appears in exceptions",
+      "Duplicate nonblank manufacturer identifier requires review"
+    ]
+  },
+  {
+    "test": "External fuzzy refresh preserves manual state",
+    "result": "PASS",
+    "engine": "Python byte comparison",
+    "detail": "All four keyed manual-input sheets remain byte-identical"
+  },
+  {
+    "test": "Final native table filters, frozen panes and display labels",
+    "result": "PASS",
+    "engine": "OOXML inspection",
+    "detail": {
+      "tables_with_filters": 13,
+      "dashboard_scope_labels": "B7:I7 and B12:I12",
+      "frozen_working_headers": 6
+    }
+  }
+]

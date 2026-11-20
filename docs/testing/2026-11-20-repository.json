@@ -1,0 +1,24 @@
+{
+  "verification_date": "2026-11-20",
+  "python": "3.11.9",
+  "workbook_sha256": "f5789f6bc3b583731e9fcc0c8e2d19bd5dafaa2a5a01a22f7db309893e55929d",
+  "tests": [
+    "450 raw rows agree cell-for-cell, including leading-zero identifiers and whitespace",
+    "Documented export CLI reproduces all four delivered CSV datasets",
+    "Generation reproduces raw data, research, labels, builder inputs and candidate scores; timestamps excluded",
+    "Independent constructed-label evaluation and 124 + 111 + 15 supplier partition agree",
+    "Research register retains 15 distinct verified real models and original access dates",
+    "39 relative documentation/image links resolve; public docs have no local/private download paths"
+  ],
+  "constructed_evaluation": {
+    "suggestions": 217,
+    "correct": 204,
+    "positives": 215,
+    "accepted": 124
+  },
+  "limitations": [
+    "No formula recalculation",
+    "No native Excel or Google Sheets UI test",
+    "Research sites not revisited"
+  ]
+}

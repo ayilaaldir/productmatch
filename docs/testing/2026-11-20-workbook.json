@@ -1,0 +1,101 @@
+{
+  "verification_date": "2026-11-20",
+  "python": "3.11.9",
+  "mode": "cached-only",
+  "workbook_sha256": "f5789f6bc3b583731e9fcc0c8e2d19bd5dafaa2a5a01a22f7db309893e55929d",
+  "metrics": {
+    "outcomes": {
+      "Accepted": 124,
+      "Needs review": 88,
+      "Rejected": 5,
+      "Excluded duplicate": 15,
+      "Unmatched": 18
+    },
+    "exported": 124,
+    "dashboard": {
+      "B9": 200,
+      "D9": 250,
+      "F9": 15,
+      "H9": "15 / 22",
+      "B14": 124,
+      "D14": 88,
+      "F14": 18,
+      "H14": 15,
+      "B18": 27,
+      "D18": 0.9852,
+      "F18": 0.9872,
+      "H18": 111
+    },
+    "evaluation": {
+      "Suggested mapping precision": 0.940092165898618,
+      "Positive suggestion recall": 0.948837209302326,
+      "Accepted mapping precision": 1,
+      "Accepted positive coverage": 0.576744186046512,
+      "No-counterpart cases": 20
+    },
+    "reconciliation": {
+      "Supplier partition": "PASS",
+      "Accepted = exported": "PASS",
+      "Exceptions reconcile": "PASS",
+      "Master partition": "PASS",
+      "Ground truth rows": "PASS",
+      "Expected duplicate exclusions": "PASS",
+      "Unique exported source IDs": "PASS",
+      "Research verified fields": "PASS"
+    },
+    "research_statuses": {
+      "Verified": 15,
+      "Conflicting sources": 2,
+      "Not found": 1,
+      "Pending": 4
+    }
+  },
+  "tests": [
+    {
+      "test": "Baseline formula error scan / eight reconciliation checks",
+      "result": "PASS",
+      "engine": "Saved caches / OOXML; no recalculation"
+    },
+    {
+      "test": "Every exported mapping attribute agrees with independently normalized selected master",
+      "result": "PASS",
+      "engine": "Python independent source comparison"
+    },
+    {
+      "test": "Native tables, 2 linked charts, dropdown XML, macro-free archive",
+      "result": "PASS",
+      "engine": "Programmatic OOXML inspection",
+      "features": {
+        "tables": 13,
+        "charts": 2
+      }
+    },
+    {
+      "test": "Blank identifiers, duplicate identifiers, conflicting variant and duplicate exclusions",
+      "result": "PASS",
+      "engine": "Saved caches / OOXML; no recalculation"
+    },
+    {
+      "test": "External fuzzy refresh preserves manual state and native parts",
+      "result": "PASS",
+      "engine": "Python byte comparison",
+      "detail": "Only CANDIDATES and calculation properties differ"
+    },
+    {
+      "test": "Windows-safe in-place refresh and exact backup",
+      "result": "PASS",
+      "engine": "Python CLI / byte comparison"
+    },
+    {
+      "test": "Final native table filters and frozen working headers",
+      "result": "PASS",
+      "engine": "OOXML inspection",
+      "detail": "13 table auto-filters; six frozen header rows; no native UI click test claimed"
+    }
+  ],
+  "not_performed": [
+    "Native Excel 365 UI",
+    "Native Google Sheets UI",
+    "LibreOffice recalculation and mutation scenarios"
+  ]
+}
